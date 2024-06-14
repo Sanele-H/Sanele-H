@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sanele-H
+- 👋 Hi, I’m Sanele
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on a project to remake my school's website 
+- 🌱 I’m currently learning studying computer science at Wits University
+
   
 
 <!---
