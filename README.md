@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanele
-- 👀 I’m interested in Web development 
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning studying computer science at Wits University
 
   
