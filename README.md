@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanele
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning studying computer science at Wits University
+- 🌱 I’m currently studying computer science at Wits University
 
   
 
